@@ -1,6 +1,7 @@
 #####################################################################
 # Radial - A module to generate radial charts as JPG and PNG images #
 # (c) Copyright 2002,2004-2007 Aaron J  Trevena                     #
+# (c) Copyright 2007 Barbie                                         #
 #####################################################################
 package GD::Chart::Radial;
 
@@ -9,7 +10,7 @@ use warnings;
 use Data::Dumper;
 use GD;
 
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 =head1 NAME
 
@@ -608,11 +609,13 @@ L<Imager::Chart::Radial>
 
 =head1 AUTHOR
 
-  Aaron J Trevena <aaron@droogs.org>
+  Original Author: Aaron J Trevena <aaron@droogs.org>
+  Current Maintainer: Barbie <barbie@missbarbell.co.uk>
 
 =head1 COPYRIGHT & LICENSE
 
   Copyright (C) 2002,2004-2007 Aaron Trevena
+  Copyright (C) 2007 Barbie
 
   This module is free software; you can redistribute it or modify it
   under the same terms as Perl itself.
