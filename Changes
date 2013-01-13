@@ -6,6 +6,9 @@ Revision history for Perl extension GD::Chart::Radial.
         - updated META files, adding META.json.
         - updated package files.
         - updated test suite.
+        - added GitHub repo.
+        - added minimum perl version (5.006).
+        - reworked Makefile.PL for clarity.
 
 0.07    2007-11-02
         - removed all MD5 tests as they seem to be causing too many problems.
