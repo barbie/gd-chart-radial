@@ -10,7 +10,7 @@ WriteMakefile(
     AUTHOR              => 'Barbie <barbie@cpan.org>',
     NAME                => 'GD::Chart::Radial',
     VERSION_FROM        => 'lib/GD/Chart/Radial.pm',
-    ABSTRACT            => 'Scripts to create the cpanstats website',
+    ABSTRACT            => 'Plot and output Radial or Radar charts using the GD library',
     NO_META             => 1,
     PREREQ_PM => {
 
