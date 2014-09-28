@@ -701,7 +701,7 @@ L<Imager::Chart::Radial>
 =head1 COPYRIGHT & LICENSE
 
   Copyright (C) 2002,2004-2007 Aaron Trevena
-  Copyright (C) 2007-2013 Barbie
+  Copyright (C) 2007-2014 Barbie
 
   This distribution is free software; you can redistribute it or modify it
   under the same terms as Perl itself.
