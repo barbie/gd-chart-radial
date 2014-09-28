@@ -3,6 +3,7 @@ Revision history for GD-Chart-Radial
 
         - documentation updates.
         - fixed license fields in META.json to be lists.
+        - extended META test suite.
 
 0.08    2013-01-13
         - removed Artistic file.
