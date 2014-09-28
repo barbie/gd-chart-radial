@@ -703,7 +703,7 @@ L<Imager::Chart::Radial>
   Copyright (C) 2002,2004-2007 Aaron Trevena
   Copyright (C) 2007-2013 Barbie
 
-  This module is free software; you can redistribute it or modify it
+  This distribution is free software; you can redistribute it or modify it
   under the same terms as Perl itself.
 
 =cut

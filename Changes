@@ -1,4 +1,7 @@
-Revision history for Perl extension GD::Chart::Radial.
+Revision history for GD-Chart-Radial
+====================================
+
+        - documentation updates.
 
 0.08    2013-01-13
         - removed Artistic file.
