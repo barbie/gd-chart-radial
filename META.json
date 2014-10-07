@@ -1,6 +1,6 @@
 {
     "name": "GD-Chart-Radial",
-    "version": "0.08",
+    "version": "0.09",
     "abstract": "Plot and output Radial or Radar charts using the GD library",
     "author": [
         "Barbie (BARBIE) <barbie@cpan.org>",
@@ -45,7 +45,7 @@
     "provides": {
         "GD::Chart::Radial": {
             "file": "lib/GD/Chart/Radial.pm",
-            "version": "0.08"
+            "version": "0.09"
         }
     },
     "no_index": {
