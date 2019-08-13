@@ -15,6 +15,7 @@ os: linux
 dist: trusty
 
 before_install:
-  cpanm -n Devel::Cover::Report::Coveralls
+  - cpanm -n Devel::Cover::Report::Coveralls
+  - sudo apt-get install gd
 script:
   perl Makefile.PL && make && cover -test -report coveralls
