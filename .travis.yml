@@ -16,6 +16,6 @@ dist: trusty
 
 before_install:
   - cpanm -n Devel::Cover::Report::Coveralls
-  - sudo apt-get install libgd2
+  - sudo apt-get install libgd-perl
 script:
   perl Makefile.PL && make && cover -test -report coveralls
